@@ -10,15 +10,16 @@
 }
 .label {
     position: absolute;
-    padding: 1em;
+
     font-size: 1em;
     background-color: #4aaaa5;
-    width: 15%;
+    width: 14%;
+    padding: 2%;
     text-align: center;
 }
 .nodeLabel {
-    margin-left: 5%;
-    margin-top: 26%;
+    margin-left: 5.5%;
+    margin-top: 26.5%;
 }
 .react {
     float: left;
@@ -28,8 +29,8 @@
     margin-top: 3%;
 }
 .reactLabel {
-    margin-left: 52%;
-    margin-top: 24%;
+    margin-left: 53%;
+    margin-top: 24.5%;
 }
 .html5 {
     clear: both;
@@ -39,8 +40,8 @@
     padding: 1em;
 }
 .htmlLabel {
-    margin-top: 60%;
-    margin-left: 4.5%;
+    margin-top: 60.75%;
+    margin-left: 5.5%;
 }
 .css3 {
     float: left;
@@ -49,8 +50,8 @@
     padding: 1em;
 }
 .cssLabel {
-    margin-left: 52%;
-    margin-top: 60%;
+    margin-left: 53%;
+    margin-top: 60.75%;
 }
 .clearfix {
 
