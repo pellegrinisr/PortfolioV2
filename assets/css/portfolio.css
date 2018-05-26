@@ -1,12 +1,17 @@
+.content {
+    position: relative;
+}
 .content img {
     width: 25%;
     background-color: lightgray;
 }
 .node {
+   clear: both;
     position: absolute;
     float: left;
     padding: 1em;
-    
+    top: 12%;
+    left: 2.5%;
 }
 .label {
     position: absolute;
@@ -30,7 +35,7 @@
 }
 .reactLabel {
     margin-left: 53%;
-    margin-top: 24.5%;
+    margin-top: 24.6%;
 }
 .html5 {
     clear: both;
